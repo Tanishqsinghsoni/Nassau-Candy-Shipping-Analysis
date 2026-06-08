@@ -58,17 +58,21 @@ Feedback always welcome! 🚀
 
 ## Dashboard Preview
 
+## Dashboard Preview
+
 ### Overview Page
-![Overview](Screenshot%202026-06-07%20202207.png)
+![Overview](overview-dashboard_1.png)
 
 ### Route Efficiency Page
-![Route Efficiency](Screenshot%202026-06-07%20202230.png)
+![Route Efficiency](route-efficiency-dashboard_2.png)
 
 ### Filters Page
-![Filters](Screenshot%202026-06-07%20202245.png)
+![Filters](filters-page_3.png)
 
 ### Geographic Map Page
-![Geographic Map](Screenshot%202026-06-07%20202303.png)
+![Geographic Map](geographic-analysis-page_4.png)
+
+---
 
 ---
 *Project completed as part of Unified Mentor 
