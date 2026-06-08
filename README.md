@@ -56,6 +56,20 @@ something new and that's what keeps me going.
 
 Feedback always welcome! 🚀
 
+## Dashboard Preview
+
+### Overview Page
+![Overview](Screenshot%202026-06-07%20202207.png)
+
+### Route Efficiency Page
+![Route Efficiency](Screenshot%202026-06-07%20202230.png)
+
+### Filters Page
+![Filters](Screenshot%202026-06-07%20202245.png)
+
+### Geographic Map Page
+![Geographic Map](Screenshot%202026-06-07%20202303.png)
+
 ---
 *Project completed as part of Unified Mentor 
 Data Analytics Internship — 2026*
